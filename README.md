@@ -49,7 +49,7 @@ This project explores and compares the performance of **Multiple Linear Regressi
 
 3. Open the Jupyter notebook:
     ```bash
-    jupyter notebook Untitled1.ipynb
+    jupyter notebook comparative_regression_fish_dataset.ipynb
     ```
 
 4. Run through the notebook to:
